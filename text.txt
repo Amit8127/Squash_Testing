@@ -1,1 +1,9 @@
 This is inital commit message
+
+First commit message
+
+Second commit message
+
+Third commit message
+
+Fourth commit message
